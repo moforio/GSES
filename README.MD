@@ -1,4 +1,4 @@
-# [Defending Object Detection Models against Image Distortions]() [] 
+# Defending Object Detection Models against Image Distortions 
 # Official implementation![Overview of prposed method](figures/AIS-I_flowchart.png)
 
 ## News
