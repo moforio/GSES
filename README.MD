@@ -11,15 +11,23 @@ Our code is built upon the code provided by [Michaelis et al.](https://github.co
 use our code, first install the neccesary libraries by following the steps detailed [here](https://github.com/bethgelab/imagecorruptions).
 
 ## Run
-* Specify the input path to the folder containing images for generating distorted samples.
-* 
+* Specify the input path to the folder containing images for generating distorted samples in ``` sav_path = ``` in ``` main ```.
+* Specifiy the txt file with absolute path of all the input images and replace this txt file with ``` input_images_list.txt ```.
 
 
 ## Citation
 Please consider cite if our work is useful for your research:
 
 ```Bibtex
-
+@InProceedings{Oduro2024Def,
+  author       = "Mark Ofori-Oduro and Maria Amer",
+  title        = "Defending Object Detection Models against Image Distortions",
+  booktitle    = "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) ",
+  year         = "2024",
+  pages        = "8",
+  month        = "Jan. 4-8",
+  address      = "Waikoloa, Hawaii",
+}
 ```
 
 
